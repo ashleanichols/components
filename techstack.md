@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ashleanichols/components is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
@@ -25,11 +26,13 @@ ashleanichols/components is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ashleanichols/components is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
@@ -53,14 +56,15 @@ ashleanichols/components is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ashleanichols/components](https://github.com/ashleanichols/components)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|85<br/>Tools used|11/09/23 <br/>Report generated|
+|89<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -313,9 +317,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (57)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (61)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (57)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (61)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -352,6 +356,7 @@ Full tech stack [here](/techstack.md)
 |[classnames](https://www.npmjs.com/classnames)|v2.3.0|04/22/21|dependabot-preview[bot] |MIT|N/A|
 |[commitizen](https://www.npmjs.com/commitizen)|v4.2.0|04/02/21|dependabot-preview[bot] |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v7.0.0|03/18/20|Matteo Vivona |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v5.0.0|04/22/21|dependabot-preview[bot] |MIT|N/A|
 |[cz-conventional-changelog](https://www.npmjs.com/cz-conventional-changelog)|v3.3.0|06/29/21|dependabot[bot] |MIT|N/A|
 |[enzyme-adapter-react-16](https://www.npmjs.com/enzyme-adapter-react-16)|v1.15.2|07/02/21|dependabot[bot] |MIT|N/A|
 |[eslint-config-airbnb](https://www.npmjs.com/eslint-config-airbnb)|v18.2.0|06/21/21|dependabot[bot] |MIT|N/A|
@@ -362,6 +367,8 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.4.0|06/21/21|dependabot[bot] |MIT|N/A|
 |[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.24.0|07/02/21|dependabot[bot] |MIT|N/A|
 |[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.2.0|07/02/21|dependabot[bot] |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.0|07/01/21|dependabot[bot] |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v11.0.0|06/21/21|dependabot[bot] |MIT|N/A|
 |[moment](https://www.npmjs.com/moment)|v2.29.0|09/23/20|dependabot-preview[bot] |MIT|[CVE-2022-24785](https://github.com/advisories/GHSA-8hfj-j24r-96c4) (High)<br/>[CVE-2022-31129](https://github.com/advisories/GHSA-wc69-rhjr-hc9g) (High)|
 |[node-sass](https://www.npmjs.com/node-sass)|v4.14.1|07/05/21|dependabot[bot] |MIT|[CVE-2020-24025](https://github.com/advisories/GHSA-r8f7-9pfq-mjmv) (Moderate)|
 |[react-bootstrap](https://www.npmjs.com/react-bootstrap)|v1.0.0|07/02/21|dependabot[bot] |MIT|N/A|
@@ -374,10 +381,11 @@ Full tech stack [here](/techstack.md)
 |[react-toastify](https://www.npmjs.com/react-toastify)|v5.5.0|07/02/21|dependabot[bot] |MIT|N/A|
 |[rollup-plugin-postcss](https://www.npmjs.com/rollup-plugin-postcss)|v4.0.0|05/31/21|dependabot[bot] |MIT|N/A|
 |[sass-loader](https://www.npmjs.com/sass-loader)|v10.2.0|05/26/21|dependabot[bot] |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v17.4.0|03/30/21|dependabot-preview[bot] |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
 |[tsdx](https://www.npmjs.com/tsdx)|v0.14.0|09/21/20|dependabot-preview[bot] |MIT|N/A|
 |[tslib](https://www.npmjs.com/tslib)|v2.3.0|06/14/21|dependabot[bot] |0BSD|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
