@@ -2,7 +2,7 @@ repo_name: ashleanichols/components
 report_id: 84d011507148ba7df5e791b4518d1761
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:14:26+00:00'
+timestamp: '2024-02-29T18:17:15+00:00'
 requested_by: matteovivona
 provider: github
 branch: master
@@ -210,7 +210,7 @@ tools:
   last_updated_by: Stefano Casasola
   last_updated_on: 2019-08-20 10:14:03.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.2.0
   license: MIT
